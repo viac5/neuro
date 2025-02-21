@@ -1,0 +1,4 @@
+pip install grpcio==1.54.2
+pip install protobuf==3.19.6
+
+pip install tensorflow-gpu==2.10.1
